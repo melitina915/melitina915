@@ -8,7 +8,6 @@
 ___
 
 ![KakaoTalk_20211123_180003352](https://user-images.githubusercontent.com/90691824/142995811-83d95978-4764-445c-abdb-b95885d2ff73.jpg)
-<img src="C:/Users/User/Pictures/KakaoTalk_20211123_180003352.jpg" width="100" height="100">
 
 
 
