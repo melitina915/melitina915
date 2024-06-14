@@ -25,40 +25,29 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 🐧 About Me
-
-- https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4
+# 🐧 [About Me](https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4)
 
 ---
 
 # 💻 Project
+### 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge Top 100 - Google for Developers
+### 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), TUMS Game Project Top Award - Sookmyung Women's University Game Metaverse Creation Club TUMS
+### ✨ [PYI : Plan Your Idea](https://github.com/PYI-Solux/Spring_Backend), SOLUX Project - Sookmyung Women's University Central Programming Club SOLUX
 
-## 🏆 2024 Google Developer Student Clubs Solution Challenge Top 100 - Google for Developers
-##### 2023.12 ~ 2024.02
-### PlogUs
-#### GitHub
-- https://github.com/plog-us/plog-us-BE
-#### YouTube
-- https://youtu.be/12oGd0Vch5g?si=_qyiayh3dqNs7Ei2
+---
 
-## 🥇 TUMS Game Project Top Award - Sookmyung Women's University Game Metaverse Creation Club TUMS
-##### 2023.09 ~ 2024.02
-### GoG : Graduate or Grind
-#### GitHub
-- https://github.com/TUMS-SAU/SAU-0.5
-#### YouTube
-- https://youtu.be/JMj1_hvsRWQ?si=xVlP4bXR_dGLI-H5
-#### Canva
-- https://www.canva.com/design/DAF8kmKgQA4/PMsEKN7XK5vcywFYDVNh2A/view?utm_content=DAF8kmKgQA4&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
-## ✨ SOLUX Project
-##### 2023.09 ~ 2024.02
-### PYI : Plan Your Idea
-#### GitHub
-- https://github.com/PYI-Solux/Spring_Backend
-#### Canva
-- https://www.canva.com/design/DAF7VZxAJhc/f1ItMJizpeEsi3oqJp9eTQ/view?utm_content=DAF7VZxAJhc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
+# 👣 Experience
+- Google IT Support Certificate Specialized Course (Apr. 2024)
+- AI Startup School with Seoul, Google for Startups (Mar.05, 2024 ~ Apr.09, 2024)
+- Google Developer Student Clubs Sookmyung Core Member (Sep. 2023 ~ June. 2024)
+- SQLD Certificate, (Dec. 15, 2023)
+- Smilegate Indie Game Development Scholarship, (May. 2023)
+- 3rd & 4th Sookmyung Women's University Programming Competition Organizing Committee (2023, 2024)
+- Vice President of ALGOS, the Algorithm Club of the Division of Software (2023)
+- Youn Go-san Scholarship, (Aug. 2022)
+- UC Berkeley EECS, 2023 Summer Vacation Sookmyung Honors Program (Jun. 2022 ~ Aug. 2022)
+- Academic Scholarship, Sookmyung Women's University (Jul. 2021)
+- Division of Basic Engineering Student Council (2021)
 
 ---
 
