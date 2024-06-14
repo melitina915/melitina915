@@ -25,18 +25,18 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 🐧 [About Me](https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4)
+## 🐧 [About Me](https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4)
 
 ---
 
-# 💻 Project
-### 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge Top 100 - Google for Developers
-### 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), TUMS Game Project Top Award - Sookmyung Women's University Game Metaverse Creation Club TUMS
-### ✨ [PYI : Plan Your Idea](https://github.com/PYI-Solux/Spring_Backend), SOLUX Project - Sookmyung Women's University Central Programming Club SOLUX
+## 💻 Project
+- 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge Top 100 - Google for Developers
+- 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), TUMS Game Project Top Award - Sookmyung Women's University Game Metaverse Creation Club TUMS
+- ✨ [PYI : Plan Your Idea](https://github.com/PYI-Solux/Spring_Backend), SOLUX Project - Sookmyung Women's University Central Programming Club SOLUX
 
 ---
 
-# 👣 Experience
+## 👣 Experience
 - Google IT Support Certificate Specialized Course (Apr. 2024)
 - AI Startup School with Seoul, Google for Startups (Mar.05, 2024 ~ Apr.09, 2024)
 - Google Developer Student Clubs Sookmyung Core Member (Sep. 2023 ~ June. 2024)
@@ -51,9 +51,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-# 🖱️Skills
+## 🖱️Skills
 
-## ⚙️ Main
+### ⚙️ Main
 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -67,14 +67,13 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔧 Sub
+### 🔧 Sub
 
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 🛠️ Others
+### 🛠️ Others
 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -82,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🗃️ Languages
+### 🗃️ Languages
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -92,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 🧰 Collaboration Tools
+### 🧰 Collaboration Tools
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -101,20 +100,20 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-# ⌨️ Solved.ac
+## ⌨️ Solved.ac
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=melitina915)](https://solved.ac/profile/melitina915)
 
 ---
 
-# 📊 GitHub Top Langs
+## 📊 GitHub Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melitina915&hide_progress=true&theme=highcontrast)
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melitina915@sookmyung.ac.kr)
 
