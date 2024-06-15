@@ -25,13 +25,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🐧 [About Me](https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4)
+## 🐧 About Me
+- https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4
 
 ---
 
 ## 💻 Project
-- 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge Top 100 - Google for Developers
-- 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), TUMS Game Project Top Award - Sookmyung Women's University Game Metaverse Creation Club TUMS
+- 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge ***Top 100*** - Google for Developers
+- 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), TUMS Game Project ***Top Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS
 - ✨ [PYI : Plan Your Idea](https://github.com/PYI-Solux/Spring_Backend), SOLUX Project - Sookmyung Women's University Central Programming Club SOLUX
 
 ---
@@ -39,18 +40,18 @@ You can click the Preview link to take a look at your changes.
 ## 👣 Experience
 - Google IT Support Certificate Specialized Course (Apr. 2024)
 - AI Startup School with Seoul, Google for Startups (Mar.05, 2024 ~ Apr.09, 2024)
-- GDSC Sookmyung Core Member, Google Developer Student Clubs (Sep. 2023 ~ June. 2024)
-- SQLD Certificate, (Dec. 15, 2023)
+- ***GDSC Sookmyung Core Member***, Google Developer Student Clubs (Sep. 2023 ~ June. 2024)
+- ***SQLD*** Certificate, (Dec. 15, 2023)
 - TUMS, Sookmyung Women's University Game Metaverse Creation Club (Sep. 2023 ~ Aug. 2024)
-- Smilegate Indie Game Development Scholarship, (May. 2023)
+- ***Smilegate*** Indie Game Development Scholarship, (May. 2023)
 - SOLUX, Sookmyung Women's University Central Programming Club (2023)
-- 3rd & 4th Sookmyung Women's University Programming Competition Organizing Committee (2023, 2024)
-- Vice President of ALGOS, the Algorithm Club of the Division of Software (2023)
+- 3rd & 4th Sookmyung Women's University ***Programming Competition Organizing Committee*** (2023, 2024)
+- ***Vice President of ALGOS***, the Algorithm Club of the Division of Software (2023)
 - ALGOS, the Algorithm Club of the Division of Software (2022 ~ 2024)
-- Youn Go-san Scholarship, (Aug. 2022)
-- UC Berkeley EECS, 2023 Summer Vacation Sookmyung Honors Program (Jun. 2022 ~ Aug. 2022)
-- Academic Scholarship, Sookmyung Women's University (Jul. 2021)
-- Division of Basic Engineering Student Council (2021)
+- Youn Go-san ***Scholarship***, (Aug. 2022)
+- ***UC Berkeley EECS***, 2023 Summer Vacation Sookmyung Honors Program (Jun. 2022 ~ Aug. 2022)
+- ***Academic Scholarship***, Sookmyung Women's University (Jul. 2021)
+- Division of Basic Engineering ***Student Council*** (2021)
 
 ---
 
