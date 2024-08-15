@@ -25,9 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🐧 About Me
-- https://melitina915.notion.site/CHAE-EUN-YOUN-9819742101024469898b5f1357ce101b?pvs=4
-
 ---
 
 ## 💻 Project
