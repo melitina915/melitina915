@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 👣 Experience
+- UMC, IT Union Side Project Club University MakeUs Challenge (Mar. 2024 ~ Aug. 2024)
 - 2024 Google Cloud Study Jam Generative AI, Google Study Jam (June. 2024)
 - Google IT Support Certificate Specialized Course (Apr. 2024)
 - AI Startup School with Seoul, Google for Startups (Mar.05, 2024 ~ Apr.09, 2024)
