@@ -28,19 +28,23 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 💻 Project
-- 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge ***Top 100*** - Google for Developers
-- 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), TUMS Game Project ***Top Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS
-- ✨ [PYI : Plan Your Idea](https://github.com/PYI-Solux/Spring_Backend), SOLUX Project - Sookmyung Women's University Central Programming Club SOLUX
+- ✨ [Codiary](https://github.com/Codiary-UMC-6th/Backend-Codiary), UMC Project - IT Union Side Project Club University MakeUs Challenge, Spring Back-end Developer
+- 🥇 [Friends! Noonsong](https://github.com/Friends-noonsong/Friends_noonsong), 2024-1 TUMS Game Project ***Top Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS, Unity Server Developer
+- 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge ***Top 100*** - Google for Developers, Spring Back-end Developer
+- 🥇 [GoG : Graduate or Grind](https://github.com/TUMS-SAU/SAU-0.5), 2023-2 TUMS Game Project ***Top Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS, Unity Client Developer
+- ✨ [PYI : Plan Your Idea](https://github.com/PYI-Solux/Spring_Backend), SOLUX Project - Sookmyung Women's University Central Programming Club SOLUX, Spring Back-end Developer
 
 ---
 
 ## 👣 Experience
+- 2024 Google Cloud Study Jam Generative AI, Google Study Jam (June. 2024)
 - Google IT Support Certificate Specialized Course (Apr. 2024)
 - AI Startup School with Seoul, Google for Startups (Mar.05, 2024 ~ Apr.09, 2024)
 - ***GDSC Sookmyung Core Member***, Google Developer Student Clubs (Sep. 2023 ~ June. 2024)
 - ***SQLD*** Certificate, (Dec. 15, 2023)
 - TUMS, Sookmyung Women's University Game Metaverse Creation Club (Sep. 2023 ~ Aug. 2024)
 - ***Smilegate*** Indie Game Development Scholarship, (May. 2023)
+- Learning Community ***Excellent Certified Group***, Sookmyung Women's University (2023)
 - SOLUX, Sookmyung Women's University Central Programming Club (2023)
 - 3rd & 4th Sookmyung Women's University ***Programming Competition Organizing Committee*** (2023, 2024)
 - ***Vice President of ALGOS***, the Algorithm Club of the Division of Software (2023)
