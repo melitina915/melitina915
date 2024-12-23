@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 💻 Project
-- ✨ [AWS SageMaker AI CV Project : Diecast](https://github.com/AWS-CV-Project-3355/server), AWS SageMaker Project ***4th*** - AWS AI CV Project, Spring Back-end Developer
+- ✨ [AWS SageMaker AI CV Project : Diecast](https://github.com/AWS-CV-Project-3355/server), AWS SageMaker Project ***4th Place*** - AWS AI CV Project, Spring Back-end Developer
 - ✨ [Codiary](https://github.com/Codiary-UMC-6th/Backend-Codiary), UMC Project - IT Union Side Project Club University MakeUs Challenge, Spring Back-end Developer
 - 🥇 [Friends! Noonsong](https://github.com/Friends-noonsong/Friends_noonsong), 2024-1 TUMS Game Project ***Top Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS, Unity Server Developer
 - 🏆 [PlogUs](https://github.com/plog-us/plog-us-BE), 2024 Google Developer Student Clubs Solution Challenge ***Top 100*** - Google for Developers, Spring Back-end Developer
