@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 💻 Project
+- 🥈 [Friends! Noonsong](https://github.com/Friends-noonsong/Friends_noonsong), 2024-2 TUMS Game Project ***Outstanding Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS, Sound Team
+- 🏆 Levaraging 3D Pet Avatars for Emotional Supprot in Pet Loss Syndrome, 2025 Brain and AI Symposium ***Outstanding Paper Award*** - Brain Engineering Society of Korea, Sookmyung Women's University HCI Lab
 - ✨ [AWS SageMaker AI CV Project : Diecast](https://github.com/AWS-CV-Project-3355/server), AWS SageMaker Project ***4th Place*** - AWS AI CV Project, Spring Back-end Developer
 - ✨ [Codiary](https://github.com/Codiary-UMC-6th/Backend-Codiary), UMC Project - IT Union Side Project Club University MakeUs Challenge, Spring Back-end Developer
 - 🥇 [Friends! Noonsong](https://github.com/Friends-noonsong/Friends_noonsong), 2024-1 TUMS Game Project ***Top Award*** - Sookmyung Women's University Game Metaverse Creation Club TUMS, Unity Server Developer
@@ -38,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 👣 Experience
-- HCI Lab Student Researcher (Sep. 2024 ~ )
+- Sookmyung Women's University HCI Lab Student Researcher (Sep. 2024 ~ )
 - AWS AI CV Project (Sep. 2024 ~ Nov. 2024)
 - UMC, IT Union Side Project Club University MakeUs Challenge (Mar. 2024 ~ Aug. 2024)
 - 2024 Google Cloud Study Jam Generative AI, Google Study Jam (June. 2024)
