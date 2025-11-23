@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 👣 Experience
-- Sookmyung Women's University HCI Lab Student Researcher (Sep. 2024 ~ May. 2025 )
+- Sookmyung Women's University HCI Lab Student Researcher (Sep. 2024 ~ May. 2025)
 - AWS AI CV Project (Sep. 2024 ~ Nov. 2024)
 - UMC, IT Union Side Project Club University MakeUs Challenge (Mar. 2024 ~ Aug. 2024)
 - 2024 Google Cloud Study Jam Generative AI, Google Study Jam (June. 2024)
